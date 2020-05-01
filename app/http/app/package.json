@@ -16,7 +16,6 @@
     "react-router-dom": "^4.3.1",
     "react-swipeable-views": "^0.13.0"
   },
-  "homepage": "https://kudososs.herokuapp.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
