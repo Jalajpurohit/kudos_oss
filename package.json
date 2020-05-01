@@ -17,8 +17,6 @@
     "react-swipeable-views": "^0.13.9"
   },
   "scripts": {
-    "homepage": "cd app && cd http && cd web && cd app && cd public && index.html",
-    "heroku-prebuild": "cd app && cd http && cd web && cd app && npm install && npm run build",
     "start": "cd app && cd http && cd web && cd app && PORT=8080 react-scripts start",
     "build": "cd app && cd http && cd web && cd app && react-scripts build",
     "test": "cd app && cd http && cd web && cd app && react-scripts test",
