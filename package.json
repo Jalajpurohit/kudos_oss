@@ -18,7 +18,7 @@
   },
   "scripts": {
     "start": "cd app && cd http && cd web && cd app && PORT=8080 react-scripts start",
-    "build": "cd app && cd http && cd web && cd app && react-scripts build",
+    "build": "react-scripts build",
     "test": "cd app && cd http && cd web && cd app && react-scripts test",
     "eject": "cd app && cd http && cd web && cd app && react-scripts eject"
   },
