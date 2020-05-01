@@ -21,10 +21,10 @@
     "react-swipeable-views": "^0.13.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "start": "cd app && cd http && cd app && react-scripts start",
+    "build": "cd app && cd http && cd app && react-scripts build",
+    "test": "cd app && cd http && cd app && react-scripts test",
+    "eject": "cd app && cd http && cd app && react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
