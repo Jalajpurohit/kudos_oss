@@ -12,7 +12,7 @@ class Main extends Component {
         <Security 
           issuer={'https://dev-446187.okta.com'}
           client_id={'0oa56m7a3RvH6FmpT4x6'}
-          redirect_uri={'http://localhost:3000/implicit/callback'}
+          redirect_uri={'http://localhost:5000/oidc/callback'}
           scope={['openid', 'profile', 'email']}>
           
           <Switch>
